@@ -1,0 +1,10 @@
+# Generated templates and local deployment artifacts
+*.json
+.runtime/
+.azure/
+.azcopy/
+*.log
+*.zip
+# Keep credentials and private evidence outside this repository
+*.local.*
+*sas-url*
